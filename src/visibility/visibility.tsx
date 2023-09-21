@@ -11,7 +11,7 @@ const Visibility: React.FC = () => {
           <SubtitleContent> Access all steps of internet granting on our exclusive platform. The system is simple and intuitive and provides a quick journey without the bureaucracy compared with other players.
           </SubtitleContent>          
         </InnerText>
-        <img src='./public/images/credito-agro-analysis.png'/>
+        <img src='/images/credito-agro-analysis.png'/>
       </DivContent>
     <VisibilityButton>Become a partner</VisibilityButton>
     </DivContainer>
