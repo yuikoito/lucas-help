@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import desktopImage from '../../public/images/produtor-rural-desktop.png';
-import mobileImage from '../../public/images/produtor-rural-mobile.png';
+import desktopImage from '/images/produtor-rural-desktop.png';
+import mobileImage from '/images/produtor-rural-mobile.png';
 
 const SectionContainer = styled.section`
   background-image: url('${desktopImage}');
